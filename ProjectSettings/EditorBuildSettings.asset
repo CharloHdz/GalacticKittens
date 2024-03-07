@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/IntroductionToNGO/2_WorkingScene/SampleNGOscene.unity
     guid: 418d0106ddb8b4061842adc31ba02789
+  - enabled: 1
+    path: Assets/Scenes/OLah.unity
+    guid: 60ccaeadf32b8ff4aa811b44f5a03976
   m_configObjects: {}
